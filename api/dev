@@ -1,0 +1,11 @@
+
+> express-typescript-starter@0.1.0 start
+> node dist/server.js
+
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+  App is running at http://localhost:5001 in development mode
+  Press CTRL-C to stop
+
+{"level":"info","message":"Connected to MongoDB"}
+Terminate batch job (Y/N)? 
